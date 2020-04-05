@@ -6,12 +6,12 @@ spring:
       client:
         registration:
           okta:
-            client-id: 0oad2f9lm1tDEZUCf0h7
-            client-secret: G2Gh5INi8aVgtbI391ssmfLRcxu4vXHk1wa2I36V
+            client-id: 0oa4033lp9o5cMt8N4x6
+            client-secret: -hhfZg0zUEOSsXbsQ61l2s9ofYd8x2ejIiV8f46G
         provider:
           okta:
-            authorization-uri: https://dev-158606.oktapreview.com/oauth2/default/v1/authorize
-            token-uri: https://dev-158606.oktapreview.com/oauth2/default/v1/token
-            user-info-uri: https://dev-158606.oktapreview.com/oauth2/default/v1/userinfo
+            authorization-uri: https://dev-876123.okta.com/oauth2/default/v1/authorize
+            token-uri: https://dev-876123.okta.com/oauth2/default/v1/token
+            user-info-uri: https://dev-876123.okta.com/oauth2/default/v1/userinfo
             user-name-attribute: preferred_username
-            jwk-set-uri: https://dev-158606.oktapreview.com/oauth2/default/v1/keys
+            jwk-set-uri: https://dev-876123.okta.com/oauth2/default/v1/keys
